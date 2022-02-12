@@ -1,6 +1,5 @@
 # Ignore the config.js file.
 config.js
-Mapping_GeoJSON_Linestrings
 # Compiled class file
 *.class
 
