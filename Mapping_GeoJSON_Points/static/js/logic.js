@@ -2,9 +2,9 @@
 console.log("working");
 
 
-// Create the map object with center at the San Francisco airport.
-// Create the map object with center and zoom level.
-let map = L.map('mapid').setView([30, 30], 2);
+// // Create the map object with center at the San Francisco airport.
+// // Create the map object with center and zoom level.
+// let map = L.map('mapid').setView([30, 30], 2);
 
 // We create the tile layer that will be the background of our map.
 let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/tiles/{z}/{x}/{y}?access_token={accessToken}', {
@@ -37,9 +37,11 @@ let map = L.map('mapid', {
 L.control.layers(baseMaps).addTo(map);
 
 
+// // then we add our 'streets' title layer to the map.
+// streets.addTo(map);
 
 // Accessing the airport GeoJSON URL
-let airportData = "https://raw.githubusercontent.com/patelprincy34/Mapping_Earthquakes/Mapping_GeoJSON_Points/Mapping_GeoJSON_Points/static/js/majorAirports.json";
+let airportData = "https://raw.githubusercontent.com/patelprincy34/Mapping_Earthquakes/Mapping_GeoJSON_Points/majorAirports.json";
 
 
 // Grabbing our GeoJSON data.
