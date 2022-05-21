@@ -1,5 +1,4 @@
 # Mapping_Earthquakes
-Module 13
 ### Overview
 ###### The purpose of this project is to collect earthquakes data and generate three interactive maps of earthquakes and there relation to the tectonic plates’ location on the earth along with there magnitude.
 ### Resources
