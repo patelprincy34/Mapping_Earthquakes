@@ -1,6 +1,6 @@
 # Mapping_Earthquakes
 ### Overview
-###### The purpose of this project is to collect earthquakes data and generate three interactive maps of earthquakes and there relation to the tectonic plates’ location on the earth along with there magnitude.
+The purpose of this project is to collect earthquakes data and generate three interactive maps of earthquakes and there relation to the tectonic plates’ location on the earth along with there magnitude.
 ### Resources
 * Data Source:
   * Tectonic Plate data: https://github.com/fraxen/tectonicplates
