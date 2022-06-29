@@ -2,7 +2,7 @@
 ### Overview
 The purpose of this project is to collect earthquakes data and generate three interactive maps of earthquakes and there relation to the tectonic plates’ location on the earth along with there magnitude.
 
-Interactive Map Features:
+## Interactive Map Features:
 ### Streets
 ![street_view](https://user-images.githubusercontent.com/93439516/176557409-f365bd9a-20c4-41e4-a134-f0d603ce6378.png)
 
